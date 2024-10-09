@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/roman yefremenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roman yefremenko" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roman yefremenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Roman Yefremenko" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22958165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22958165" height="30" width="40" /></a>
-<a href="https://instagram.com/yefremenko_roman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yefremenko_roman" height="30" width="40" /></a>
+<a href="https://instagram.com/yefremenko_roman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yefremenko_roma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
